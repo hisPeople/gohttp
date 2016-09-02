@@ -28,7 +28,7 @@ const htmlTpl = `
 <body>
 <div class="container-fluid">
 <ul class="breadcrumb">
-  <li><a href="http://github.com/itang/gohttp">GOHTTP</a><span class="divider"> | </span></li>
+  <li><a href="http://github.com/hisPeople/gohttp">GOHTTP</a><span class="divider"> | </span></li>
   <li><a href="#"><a href="{{.ParentURI}}">{{.ParentURI}}</a><span class="divider">/</span></li>
   <li class="active"><a href="{{.CurrentURI}}">{{.CurrentURI}}</a></li>
 </ul>
